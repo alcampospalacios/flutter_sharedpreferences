@@ -1,16 +1,8 @@
 # shared_preferences
 
-A new Flutter project.
+Preferencias compartidas y Menu drawer
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Ejemplo
+![Screenshot_2021-08-18-00-14-11](https://user-images.githubusercontent.com/54634181/129836093-6d577dd3-aa18-46f3-b2b4-82b0f333ad20.png)
+![Screenshot_2021-08-18-00-13-55](https://user-images.githubusercontent.com/54634181/129836114-c985241e-2ad6-4299-a6e7-cedd2e5d9d4e.png)
+![Screenshot_2021-08-18-00-14-05](https://user-images.githubusercontent.com/54634181/129836128-e45f891e-3e8c-4c75-bcd9-8f725044104f.png)
